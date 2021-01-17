@@ -1,23 +1,15 @@
-# Windows thumbnail cache files
-Thumbs.db
-ehthumbs.db
-ehthumbs_vista.db
+# Dependency directory and npm log
+venv
 
-# Folder config file
-Desktop.ini
+# OS X
+.DS_Store
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+# Visual studio code
+.vscode/
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+# IntelliJ etc
+.idea
 
-# Windows shortcuts
-*.lnk
+# build directory
+lib
 
-# =========================
-# Operating System Files
-# =========================
